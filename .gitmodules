@@ -1,0 +1,33 @@
+[submodule "devops"]
+	path = devops
+	url = https://github.com/bandsy/devops
+[submodule "profile"]
+	path = profile
+	url = https://github.com/bandsy/profile
+[submodule "listing"]
+	path = listing
+	url = https://github.com/bandsy/listing
+[submodule "web"]
+	path = web
+	url = https://github.com/bandsy/web
+[submodule "blob"]
+	path = blob
+	url = https://github.com/bandsy/blob
+[submodule "payment"]
+	path = payment
+	url = https://github.com/bandsy/payment
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/bandsy/gateway
+[submodule "reporting"]
+	path = reporting
+	url = https://github.com/bandsy/reporting
+[submodule "message"]
+	path = message
+	url = https://github.com/bandsy/message
+[submodule "search"]
+	path = search
+	url = https://github.com/bandsy/search
+[submodule "identity"]
+	path = identity
+	url = https://github.com/bandsy/identity
